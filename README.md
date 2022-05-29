@@ -7,7 +7,7 @@ This is a capestone project cooperate with Kevin Liu, Zoe Liu, Qin Tang. We foun
 
 ### Weekly meals plan (Landing page)
 Provides user an overview of meal plans in a week.
-<p align = 'left'>
+<p align = 'center'>
 <img src = 'https://github.com/zachhuang4026/ceres/blob/main/landing_page.gif' width="300">
 <img src = 'https://github.com/zachhuang4026/ceres/blob/main/recipes_detail.gif' width="300">
 </p>
