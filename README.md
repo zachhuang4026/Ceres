@@ -7,28 +7,26 @@ This is a capestone project cooperate with Kevin Liu, Zoe Liu, Qin Tang. We foun
 
 ### Weekly meals plan (Landing page)
 Provides user an overview of meal plans in a week.
-<p align = 'center'>
-<img src = 'https://github.com/zachhuang4026/ceres/blob/main/landing_page.gif' width="100">
-</p>
-<p align = 'center'>
-<img src = 'https://github.com/zachhuang4026/ceres/blob/main/recipes_detail.gif'>
+<p align = 'left'>
+<img src = 'https://github.com/zachhuang4026/ceres/blob/main/landing_page.gif' width="300">
+<img src = 'https://github.com/zachhuang4026/ceres/blob/main/recipes_detail.gif' width="300">
 </p>
 
 ### Grocery list
 This grocery list will automatically sync with the ingredients required for preparing the weekly meal plans.
 <p align = 'center'>
-<img src = 'https://github.com/zachhuang4026/ceres/blob/main/grocery_list.gif'>
+<img src = 'https://github.com/zachhuang4026/ceres/blob/main/grocery_list.gif' width="300">
 </p>
 
 ### Recipes
 Here provides a list of recipes for user to see the details and select which day, which meal they want to cook during the week.
 <p align = 'center'>
-<img src = 'https://github.com/zachhuang4026/ceres/blob/main/recipes_planning.gif'>
+<img src = 'https://github.com/zachhuang4026/ceres/blob/main/recipes_planning.gif' width="300">
 </p>
 
 ### Feeds
 Users can share their dishes here to create a community.
 <p align = 'center'>
-<img src = 'https://github.com/zachhuang4026/ceres/blob/main/feeds.gif'>
+<img src = 'https://github.com/zachhuang4026/ceres/blob/main/feeds.gif' width="300">
 </p>
 
