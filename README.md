@@ -9,7 +9,6 @@ This is a capestone project cooperate with Kevin Liu, Zoe Liu, Qin Tang. We foun
 Provides user an overview of meal plans in a week.
 <p align = 'center'>
 <img src = 'https://github.com/zachhuang4026/ceres/blob/main/landing_page_short.gif' width="300">
-<img src = 'https://github.com/zachhuang4026/ceres/blob/main/recipes_detail.gif' width="300">
 </p>
 
 ### Grocery list
@@ -27,6 +26,6 @@ Here provides a list of recipes for user to see the details and select which day
 ### Feeds
 Users can share their dishes here to create a community.
 <p align = 'center'>
-<img src = 'https://github.com/zachhuang4026/ceres/blob/main/feeds.gif' width="300">
+<img src = 'https://github.com/zachhuang4026/ceres/blob/main/feeds_short.gif' width="300">
 </p>
 
